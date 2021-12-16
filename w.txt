@@ -1,0 +1,26 @@
+string to integer
+float to integer
+string to float
+integer to string
+float to string
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------nteger
+ to convert the value from string to integer we have to use the function or method
+--> parseInt();
+pass in the correct arguement will return correct value else zero will be returned
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+convert float to integer
+--> parseInt();
+convert string to float
+--> parseFloat();
+integer or float value can be converted to string by usingthw fuction
+--> toString()
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+implicit type conversions are coercions in this javascript attempts to convert the value to the type i.e 
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Javascript Array
+it is an object that represents a collection of similar types of elements tehre are three ways to constuct arrays in javascript
+ 1. BY array litral
+ 2. BY creating instance of array directly by using new keyword
+ 3. BY using an array constructor  { using new keyword }
